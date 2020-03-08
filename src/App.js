@@ -8,7 +8,7 @@ import Card from "react-bootstrap/Card";
 const App = () => {
   return (
     <Container fluid="true" className="container">
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -22,7 +22,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -36,7 +36,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -50,7 +50,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -64,7 +64,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -78,7 +78,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -92,7 +92,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -106,7 +106,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -120,7 +120,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -134,7 +134,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -148,7 +148,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
@@ -162,7 +162,7 @@ const App = () => {
           <Card.Link href="#">Another Link</Card.Link>
         </Card.Body>
       </Card>
-      <Card style={{ width: "13rem", margin: "5px", borderRadius: "10px" }}>
+      <Card className="shadow" style={{ width: "12rem", margin: "10px", borderRadius: "10px" }}>
         <Card.Img variant="top" src="holder.js/100px180?text=Image cap" />
         <Card.Body>
           <Card.Title>Card Title</Card.Title>
