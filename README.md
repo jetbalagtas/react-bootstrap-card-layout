@@ -2,7 +2,11 @@ Created with [Create React App](https://github.com/facebook/create-react-app).
 
 This project uses [React Bootstrap](https://react-bootstrap.github.io/) for the layout.
 
-In the project directory, you can run:
+In the project directory, first run:
+
+### `npm install`
+
+Then:
 
 ### `npm start`
 
