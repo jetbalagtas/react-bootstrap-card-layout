@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-card-layout/static/css/main.93057d6d.chunk.css",
+    "main.js": "/react-bootstrap-card-layout/static/js/main.f20ec7eb.chunk.js",
+    "main.js.map": "/react-bootstrap-card-layout/static/js/main.f20ec7eb.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-card-layout/static/js/runtime-main.a3632aa4.js",
+    "runtime-main.js.map": "/react-bootstrap-card-layout/static/js/runtime-main.a3632aa4.js.map",
+    "static/css/2.de424728.chunk.css": "/react-bootstrap-card-layout/static/css/2.de424728.chunk.css",
+    "static/js/2.e963f04d.chunk.js": "/react-bootstrap-card-layout/static/js/2.e963f04d.chunk.js",
+    "static/js/2.e963f04d.chunk.js.map": "/react-bootstrap-card-layout/static/js/2.e963f04d.chunk.js.map",
+    "index.html": "/react-bootstrap-card-layout/index.html",
+    "precache-manifest.5b471bd448942f902c868b5799bdf29e.js": "/react-bootstrap-card-layout/precache-manifest.5b471bd448942f902c868b5799bdf29e.js",
+    "service-worker.js": "/react-bootstrap-card-layout/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/react-bootstrap-card-layout/static/css/2.de424728.chunk.css.map",
+    "static/css/main.93057d6d.chunk.css.map": "/react-bootstrap-card-layout/static/css/main.93057d6d.chunk.css.map",
+    "static/js/2.e963f04d.chunk.js.LICENSE.txt": "/react-bootstrap-card-layout/static/js/2.e963f04d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3632aa4.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e963f04d.chunk.js",
+    "static/css/main.93057d6d.chunk.css",
+    "static/js/main.f20ec7eb.chunk.js"
+  ]
+}
