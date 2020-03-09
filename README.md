@@ -1,3 +1,5 @@
+### View the page right here on GitHub: [https://jetbalagtas.github.io/react-bootstrap-card-layout/](https://jetbalagtas.github.io/react-bootstrap-card-layout/)
+
 Created with [Create React App](https://github.com/facebook/create-react-app).
 
 This project uses [React Bootstrap](https://react-bootstrap.github.io/) for the layout.
